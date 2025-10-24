@@ -1,0 +1,7 @@
+{
+  "/(auth)/api/auth/[...nextauth]/route": "app/(auth)/api/auth/[...nextauth]/route.js",
+  "/(chat)/api/history/route": "app/(chat)/api/history/route.js",
+  "/(chat)/page": "app/(chat)/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/fingpt/v1/chat/completions/route": "app/api/fingpt/v1/chat/completions/route.js"
+}

@@ -1,0 +1,49 @@
+{
+  "node": {
+    "402e9e0b9aac405bba42ae9b7b7d8d7ee0f695254d": {
+      "workers": {
+        "app/(chat)/chat/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(chat)/chat/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(chat)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/artifacts/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(chat)/chat/[id]/page": "action-browser"
+      }
+    },
+    "40c35b258ba4060854e3cf51bb20eb7255e0757f78": {
+      "workers": {
+        "app/(chat)/chat/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(chat)/chat/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(chat)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/artifacts/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(chat)/chat/[id]/page": "action-browser"
+      }
+    },
+    "40d50d88dbbc74e29ad8d17f3ef65066dc6bb741c1": {
+      "workers": {
+        "app/(chat)/chat/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(chat)/chat/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(chat)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/artifacts/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(chat)/chat/[id]/page": "action-browser"
+      }
+    },
+    "40da48a361eb455e41eabd1473efb11d7d387a18f1": {
+      "workers": {
+        "app/(chat)/chat/[id]/page": {
+          "moduleId": "[project]/.next-internal/server/app/(chat)/chat/[id]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/(chat)/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/artifacts/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(chat)/chat/[id]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

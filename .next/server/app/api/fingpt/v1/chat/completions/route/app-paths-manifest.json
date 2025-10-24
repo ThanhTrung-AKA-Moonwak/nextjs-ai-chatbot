@@ -1,0 +1,3 @@
+{
+  "/api/fingpt/v1/chat/completions/route": "app/api/fingpt/v1/chat/completions/route.js"
+}
